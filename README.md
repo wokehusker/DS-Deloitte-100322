@@ -8,12 +8,12 @@ A repository for all lecture materials for the Flatiron School's Deloitte Data S
 
 1. FORK this repository, creating a copy on your own GitHub account
 
-2. Then clone your fork down to your local computer
+2. Then clone your fork down to your local computer. Using the terminal, navigate to the directory in your computer where you want this repository to be. Then, run the following command.
 ```
 git clone https://github.com/[yourusername]/DS-Deloitte-100322.git
 ```
 
-3. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
+3. Make sure you cd into your git repository to do the following git commands. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
 ```
 git remote add upstream https://github.com/flatiron-school/DS-Deloitte-100322.git
 ```
